@@ -7,7 +7,7 @@ This is my personal portfolio website, built with React, inspired by the aesthet
 ## Live Demo
 
 Check out the live version of my portfolio at:  
-[Your live demo link]
+[https://ghibli-new.onrender.com]
 
 
 ## Technologies Used

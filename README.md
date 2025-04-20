@@ -48,9 +48,9 @@ Check out the live version of my portfolio at:
 4. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    
-5. Open http://localhost:3000 in your browser to view the portfolio.
+5. Open http://localhost:5173 in your browser to view the portfolio.
 
    
 

@@ -1,0 +1,23 @@
+# Ignore Node.js dependencies
+client/node_modules/
+
+# Build output
+client/build/
+
+# Local env files
+client/.env
+
+# Logs
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+
+# Mac system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp

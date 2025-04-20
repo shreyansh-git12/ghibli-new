@@ -44,20 +44,21 @@ This project is designed to showcase your creative work and personal projects wh
 ## 📂 Folder Structure
 
 ghibli-portfolio/
-├── client/
-│   ├── public/
-│   │   └── index.html
-│   ├── src/
-│   │   ├── assets/          # Images, icons, and static resources
-│   │   ├── components/      # Reusable UI components (Hero, About, Projects, etc.)
-│   │   ├── pages/           # Full-page components (Home, Contact, NotFound, etc.)
-│   │   ├── utils/           # Helper functions or constants (optional)
-│   │   └── App.jsx          # Root component
-│   │   └── index.js         # App entry point
-│   ├── package.json         # Project metadata and dependencies
-│   └── tailwind.config.js   # Tailwind CSS configuration
-├── .gitignore               # Files and folders to ignore in version control
-└── README.md                # Project overview and setup instructions
+├── client/                       # Main client-side folder
+│   ├── public/                   # Public directory
+│   │   └── index.html            # Root HTML file, entry point for the app
+│   ├── src/                      # Source code directory
+│   │   ├── assets/               # Static assets (images, icons, fonts, etc.)
+│   │   ├── components/           # Reusable UI components (Hero, About, Projects, etc.)
+│   │   ├── pages/                # Full-page components (Home, About, Contact, etc.)
+│   │   ├── utils/                # Utility functions or constants (optional)
+│   │   ├── App.jsx               # Main React component (App entry point)
+│   │   └── index.js              # React app initialization (app entry point)
+│   ├── package.json              # Project metadata and dependencies
+│   └── tailwind.config.js        # Tailwind CSS configuration (theme, colors, etc.)
+├── .gitignore                    # Files and folders to ignore in version control
+└── README.md                     # Project overview, setup instructions, and guidelines
+
 
 yaml
 Copy
@@ -73,6 +74,8 @@ Follow these simple steps to run the project locally:
 
 git clone https://github.com/shreyansh-git12/ghibli-portfolio.git
 cd ghibli-portfolio/client
+
+
 2️⃣ Install dependencies:
 bash
 Copy
@@ -101,6 +104,8 @@ npm start	Runs the development server
 npm run build	Builds the app for production
 npm run test	Launches test runners
 npm run lint	Checks for linting issues
+
+
 📌 Live Demo
 Live Preview — replace this with your actual deployed URL once live!
 
@@ -115,15 +120,14 @@ Images and icons under /src/assets/.
 
 Change them to match your personality or branding style.
 
+
+
 🧙 Design Philosophy
 This portfolio uses:
 
 Soft gradients
-
 Nature-inspired color schemes
-
 Minimalist text layout
-
 Fluid animations
 to reflect the emotional world of Studio Ghibli — calm, magical, and human.
 

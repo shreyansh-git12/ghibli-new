@@ -54,13 +54,11 @@ Check out the live version of my portfolio at:
 
    ```bash
    cd ghibli-portfolio/client
-
    
 3. Install dependencies:
 
    ```bash
    npm install
-
    
 4. Start the development server:
 
@@ -71,4 +69,8 @@ Check out the live version of my portfolio at:
 5. Open http://localhost:3000 in your browser to view the portfolio.
 
 
+## Theme
+
+
+You can install theme from [Mtzu](https://matsu-theme.vercel.app/?ref=kulkarniankita)
 

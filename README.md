@@ -49,10 +49,10 @@ Check out the live version of my portfolio at:
 
    ```bash
    npm start
-
    
 5. Open http://localhost:3000 in your browser to view the portfolio.
 
+   
 
 ## Theme
 

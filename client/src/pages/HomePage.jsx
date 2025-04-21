@@ -6,6 +6,7 @@ import { MdEmail } from "react-icons/md";
 import { FaLinkedin } from "react-icons/fa";
 import { AiOutlineFilePdf } from "react-icons/ai";
 
+
 const HomePage = () => {
   return (
     <div className="h-screen flex flex-col md:flex-row justify-center items-center text-center gap-8 md:gap-2 lg:px-40 md:-mt-28 mt-25 mb-2">

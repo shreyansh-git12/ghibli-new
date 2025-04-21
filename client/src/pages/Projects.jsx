@@ -38,8 +38,8 @@ const projects = [
   {
     title: "Railway Reservation System",
     description:
-      "A real-time MERN chat application with AI-powered suggestions and Socket.io support.
-      Under Devolopment",
+      "A real-time MERN chat application with AI-powered suggestions and Socket.io support."+
+      "Under Devolopment",
     link: "https://your-pingme-link.com",
     image: img5,
   },

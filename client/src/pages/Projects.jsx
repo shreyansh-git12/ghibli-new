@@ -23,8 +23,8 @@ const projects = [
   {
     title: "Furred Babbies",
     description:
-      "Pet care appointment platform using MERN stack, JWT authentication, and Cashfree payments.
-      Belongs to Company--wait to be live",
+      "Pet care appointment platform using MERN stack, JWT authentication, and Cashfree payments." +
+      "Belongs to Company--wait to be live",
     link: "https://your-furred-babbies-link.com",
     image: img3,
   },

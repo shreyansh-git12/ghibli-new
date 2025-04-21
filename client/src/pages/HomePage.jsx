@@ -33,31 +33,39 @@ const HomePage = () => {
           </p>
         </div>
         <div className="pt-4 space-y-2 md:flex md:gap-6 mt-3 justify-center items-center flex gap-4 mb-20 md:-mb-20">
-          <Button
-            variant="outline"
-            className="p-7 rounded-full w-15 h-12 shadow-md hover:shadow-2xl hover:scale-105 transition-all duration-300 ease-in-out"
-          >
-            <FiPhoneCall />
-          </Button>
-          <Button
-            variant="outline"
-            className="p-7 rounded-full w-15 h-12 shadow-md hover:shadow-2xl hover:scale-105 transition-all duration-300 ease-in-out"
-          >
-            <MdEmail />
-          </Button>
-          <Button
-            variant="outline"
-            className="p-7 rounded-full w-15 h-12 shadow-md hover:shadow-2xl hover:scale-105 transition-all duration-300 ease-in-out"
-          >
-            <FaLinkedin />
-          </Button>
-          <Button
-            variant="outline"
-            className="p-7 rounded-full w-15 h-12 shadow-md hover:shadow-2xl hover:scale-105 transition-all duration-300 ease-in-out"
-          >
-            <AiOutlineFilePdf />
-          </Button>
-        </div>
+  <a href="tel:+[7800312158]" className="w-fit">
+    <Button
+      variant="outline"
+      className="p-7 rounded-full w-15 h-12 shadow-md hover:shadow-2xl hover:scale-105 transition-all duration-300 ease-in-out"
+    >
+      <FiPhoneCall />
+    </Button>
+  </a>
+  <a href="mailto:[jss.shreyansh@gmail.com]" className="w-fit">
+    <Button
+      variant="outline"
+      className="p-7 rounded-full w-15 h-12 shadow-md hover:shadow-2xl hover:scale-105 transition-all duration-300 ease-in-out"
+    >
+      <MdEmail />
+    </Button>
+  </a>
+  <a href="https://www.linkedin.com/in/shreyansh-chaurasia-739a8b360/" target="_blank" rel="noopener noreferrer" className="w-fit">
+    <Button
+      variant="outline"
+      className="p-7 rounded-full w-15 h-12 shadow-md hover:shadow-2xl hover:scale-105 transition-all duration-300 ease-in-out"
+    >
+      <FaLinkedin />
+    </Button>
+  </a>
+  <a href="/path/to/your/resume.pdf" target="_blank" rel="noopener noreferrer" className="w-fit">
+    <Button
+      variant="outline"
+      className="p-7 rounded-full w-15 h-12 shadow-md hover:shadow-2xl hover:scale-105 transition-all duration-300 ease-in-out"
+    >
+      <AiOutlineFilePdf />
+    </Button>
+  </a>
+</div>
       </div>
     </div>
   );

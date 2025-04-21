@@ -58,7 +58,7 @@ const HomePage = () => {
       <FaLinkedin />
     </Button>
   </a>
-  <a href="../assets/shreyansh-resume.pdf" target="_blank" rel="noopener noreferrer" className="w-fit">
+  <a href="client/src/assets/shreyansh-resume.pdf" target="_blank" rel="noopener noreferrer" className="w-fit">
     <Button
       variant="outline"
       className="p-7 rounded-full w-15 h-12 shadow-md hover:shadow-2xl hover:scale-105 transition-all duration-300 ease-in-out"

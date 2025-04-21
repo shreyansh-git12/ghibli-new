@@ -23,7 +23,7 @@ const ResumePage = () => {
             <p className="text-sm md:text-base">Full Stack Web Developer</p>
             <p className="text-sm">📍 Noida, India</p>
             <p className="text-sm">
-              📧 shreyanshchaurasia@gmail.com | 📞 7800312158
+              📧 jss.shreyansh@gmail.com | 📞 7800312158
             </p>
           </div>
 
@@ -32,7 +32,7 @@ const ResumePage = () => {
               Experience
             </h2>
             <ul className="list-disc pl-5 space-y-2 text-sm md:text-base">
-              <li>MERN Stack Developer Intern — XYZ Company (2024)</li>
+              <li>MERN Stack Developer Intern — NWSPL (2024)</li>
               <li>Freelance Full Stack Projects — Self-Employed</li>
             </ul>
           </div>
@@ -57,7 +57,7 @@ const ResumePage = () => {
         {/* Right Side Image + Download */}
         <div className="flex flex-col items-center gap-6 flex-shrink-0">
           <a
-            href="/resume.pdf"
+            href="https://publuu.com/flip-book/854633/1873641"
             target="_blank"
             rel="noopener noreferrer"
             className="underline text-sm md:text-base"

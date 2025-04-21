@@ -26,7 +26,7 @@ const ContactPage = () => {
           <p className="text-base md:text-lg font-semibold mb-2 flex items-center justify-center gap-2">
             <MdEmail /> Email
           </p>
-          <p className="text-sm md:text-base">shreyanshchaurasia@gmail.com</p>
+          <p className="text-sm md:text-base">jss.shreyansh@gmail.com</p>
         </div>
 
         <div className="rounded-3xl shadow-lg p-6 hover:shadow-2xl transition-shadow duration-300 ease-in-out text-center">
@@ -35,7 +35,7 @@ const ContactPage = () => {
           </p>
           <div className="flex justify-center gap-6 text-sm md:text-base">
             <a
-              href="https://github.com/"
+              href="https://github.com/shreyansh-git12"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:underline flex items-center gap-1"
@@ -43,7 +43,7 @@ const ContactPage = () => {
               <FaGithub /> GitHub
             </a>
             <a
-              href="https://linkedin.com/"
+              href="https://www.linkedin.com/in/shreyansh-chaurasia-739a8b360/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:underline flex items-center gap-1"
@@ -51,7 +51,7 @@ const ContactPage = () => {
               <FaLinkedin /> LinkedIn
             </a>
             <a
-              href="https://twitter.com/"
+              href="https://x.com/ShreyanshC17989"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:underline flex items-center gap-1"

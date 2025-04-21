@@ -10,20 +10,21 @@ const projects = [
     title: "ProCollab",
     description:
       "AI-powered project collaboration platform built with the MERN stack and real-time chat integration.",
-    link: "https://your-procollab-link.com",
+    link: "https://procollab-frontend.onrender.com/",
     image: img1,
   },
   {
     title: "BookLot",
     description:
       "A book discovery and bookmarking web app using Google Books API and Firebase authentication.",
-    link: "https://your-booklot-link.com",
+    link: "https://booklot.onrender.com/",
     image: img2,
   },
   {
     title: "Furred Babbies",
     description:
-      "Pet care appointment platform using MERN stack, JWT authentication, and Cashfree payments.",
+      "Pet care appointment platform using MERN stack, JWT authentication, and Cashfree payments.
+      (Belongs to Company)",
     link: "https://your-furred-babbies-link.com",
     image: img3,
   },
@@ -31,22 +32,23 @@ const projects = [
     title: "CryptoBillions",
     description:
       "A crypto trading simulation platform for learning and practicing real-time crypto strategies.",
-    link: "https://your-cryptobillions-link.com",
+    link: "https://cryptobillons.onrender.com/",
     image: img4,
   },
   {
     title: "Railway Reservation System",
     description:
-      "A real-time MERN chat application with AI-powered suggestions and Socket.io support.",
+      "A real-time MERN chat application with AI-powered suggestions and Socket.io support.
+      Under Devolopment",
     link: "https://your-pingme-link.com",
     image: img5,
   },
   {
     title: "GhibFolio",
     description:
-      "An all-in-one business networking and collaboration portal for entrepreneurs and startups.",
-    link: "https://your-businesshub-link.com",
-    image: img1, // Looping img1 again for the 6th project
+      "This Project",
+    link: "https://ghibli-new.onrender.com/",
+    image: img1, 
   },
 ];
 

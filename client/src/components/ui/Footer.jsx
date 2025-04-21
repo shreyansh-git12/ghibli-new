@@ -11,7 +11,7 @@ const Footer = () => {
 
       <div className="flex space-x-6 text-xl">
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/shreyansh-git12"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-primary transition-colors"
@@ -19,7 +19,7 @@ const Footer = () => {
           <FaGithub />
         </a>
         <a
-          href="https://linkedin.com/in/yourusername"
+          href="https://www.linkedin.com/in/shreyansh-chaurasia-739a8b360/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-primary transition-colors"
@@ -27,7 +27,7 @@ const Footer = () => {
           <FaLinkedin />
         </a>
         <a
-          href="https://twitter.com/yourusername"
+          href="https://x.com/ShreyanshC17989"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-primary transition-colors"
